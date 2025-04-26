@@ -16,6 +16,12 @@
       "text": "Dev"
     },
     {
+      "id": "noi@research",
+      "parent": 0,
+      "dir": true,
+      "text": "Research"
+    },
+    {
       "id": "noi@community",
       "parent": 0,
       "dir": true,
@@ -116,6 +122,12 @@
       "parent": "noi@dev",
       "text": "Project IDX",
       "url": "https://idx.google.com"
+    },
+    {
+      "id": "noi:doc2x",
+      "parent": "noi@research",
+      "text": "doc2x",
+      "url": "https://doc2x.noedgeai.com"
     },
     {
       "id": "noi:x",
